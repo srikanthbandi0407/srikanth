@@ -9,7 +9,10 @@ public class StepDefination {
 
 	@Given("user is on netbaning landing page")
 	public void user_is_on_netbaning_landing_page() {
-
+		System.out.println("srikanth");
+		System.out.println("srikanth1");
+		System.out.println("srikanth2");
+		System.out.println("srikanth3");
 	}
 
 	@When("user login to application with {string} and {string}")
