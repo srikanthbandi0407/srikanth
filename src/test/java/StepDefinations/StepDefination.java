@@ -13,6 +13,12 @@ public class StepDefination {
 		System.out.println("srikanth1");
 		System.out.println("srikanth2");
 		System.out.println("srikanth3");
+		System.out.println("srikanth11");
+		System.out.println("srikanth21");
+		System.out.println("srikanth31");
+		
+		
+		
 	}
 
 	@When("user login to application with {string} and {string}")
