@@ -16,7 +16,8 @@ public class StepDefination {
 		System.out.println("srikanth11");
 		System.out.println("srikanth21");
 		System.out.println("srikanth31");
-		
+		System.out.println("srikanth21");
+		System.out.println("srikanth31");
 		
 		
 	}
@@ -29,8 +30,7 @@ public class StepDefination {
 		System.out.println("srikanth2");
 		System.out.println("srikanth3");
 		System.out.println("srikanth11");
-		System.out.println("srikanth21");
-		System.out.println("srikanth31");
+		
 	}
 
 	@Then("home page is populated")
