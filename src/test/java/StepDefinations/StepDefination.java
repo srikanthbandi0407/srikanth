@@ -24,6 +24,13 @@ public class StepDefination {
 	@When("user login to application with {string} and {string}")
 	public void user_login_to_application_with_and(String string, String string2) {
 		System.out.println(string + string2);
+		System.out.println("srikanth");
+		System.out.println("srikanth1");
+		System.out.println("srikanth2");
+		System.out.println("srikanth3");
+		System.out.println("srikanth11");
+		System.out.println("srikanth21");
+		System.out.println("srikanth31");
 	}
 
 	@Then("home page is populated")
